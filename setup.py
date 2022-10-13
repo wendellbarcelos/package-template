@@ -14,7 +14,7 @@ setup(
     description="Image Processing Package using Skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/wendellbarcelos/BootcampDio-DataScienceUnimed/tree/master/Python%20para%20Data%20Science"
+    url="https://github.com/wendellbarcelos/package-template",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
